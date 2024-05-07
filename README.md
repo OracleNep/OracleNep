@@ -21,7 +21,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/OracleNep/count.sv
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<img src="img/1.jpg" >
+<img src="1.jpg" >
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
