@@ -9,7 +9,7 @@
 
 - 🔭 whoami？一般路过热爱Mathematical analysis的小安服，舟批原批崩批交界地轮椅人无敌CS大玉和业余Cosplayer
 - 🌱 About hobbies：我永远喜欢塞壬唱片和Riemann曲率张量和weblogic反序列化0day和香香的小男娘
-- 💬 Java/python/php/C 和chatgpt复制粘贴工程师 冲刺SCI中科院四区一作ing
+- 💬 Java/python/php/C 和chatgpt复制粘贴工程师 冲刺SCI中科院三区一作ing
 - 📫 follow：并非单纯的私人账号，也会发布群友们与团队共同编写的优质项目
 - 😄 Read more about our Telegram: [here](https://t.me/Oracleimpact)
 
@@ -25,7 +25,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/OracleNep/count.sv
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=From+the+monster+you+made+me" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=So+stay+alive+bravely" />
 </p>
 
 
