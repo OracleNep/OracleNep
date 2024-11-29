@@ -13,7 +13,7 @@
 - 📫 follow：并非单纯的私人账号，GROUP：黄豆安全实验室（微信公众号同名）
 - 😄 Read more about our Telegram: [here](https://t.me/Oracleimpact)
 
-![]()
+![](https://github-readme-stats.vercel.app/api?username=OracleNep&show_icons=true&theme=transparent)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/OracleNep/count.svg) visitor,Thank You!
 
