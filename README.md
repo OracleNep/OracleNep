@@ -7,9 +7,8 @@
 
 ###
 
-- 🔭 Whoami？一般路过热爱Mathematical analysis的小红队工程师，舟批原批崩批交界地轮椅人无敌CS大玉和业余Cosplayer
-- 🌱 About hobbies：我永远喜欢塞壬唱片和微分方程和weblogic反序列化0day和香香的小男娘
-- 💬 Java/python/php/C 以及chatgpt复制粘贴工程师 SCI中科院三区一作 2024国护某市双行业一等奖/最佳攻击队
+
+- 💬 Our Team : https://github.com/Team-intN18-SoybeanSeclab
 - 📫 follow：并非单纯的私人账号，GROUP：黄豆安全实验室（微信公众号同名）
 - 😄 Read more about our Telegram: [here](https://t.me/Oracleimpact)
 
