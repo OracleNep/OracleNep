@@ -9,7 +9,7 @@
 
 
 - 💬 Our Team : https://github.com/Team-intN18-SoybeanSeclab
-- 📫 follow：并非单纯的私人账号，GROUP：黄豆安全实验室（微信公众号同名）
+- 📫 follow：并非单纯的私人账号，GROUP：SoybeanSEC（微信公众号同名）
 - 😄 Read more about our Telegram: https://t.me/SuperBigCup6657
 
 ![](https://github-readme-stats.vercel.app/api?username=OracleNep&show_icons=true&theme=transparent)
